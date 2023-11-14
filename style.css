@@ -86,4 +86,9 @@ li{display: inline;}
         background-color: #45a049;
     }
 
+    .left-sidebar , 
+    .right-sidebar { background-color: #c0c0c0;
+    padding: 20px;
+
+}
    
